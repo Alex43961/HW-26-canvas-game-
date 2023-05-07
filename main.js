@@ -2,7 +2,7 @@
 
 import { draw } from "./js/draw.js";
 
-const imgList = ["./images/small-background.png", "./images/my spaceship.png", "./images/my rocket.png", "./images/enemy's spaceship.png", "./images/enemy's rocket.png"];
+
 const imgX = [800, 77, 20, 80, 20];
 const imgY = [600, 100, 97, 80, 30];
 let imgS = [];
